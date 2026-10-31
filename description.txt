@@ -79,6 +79,21 @@ If nobody in your camp or dynasty can take the title, that choice is greyed out 
 
 Deposing a ruler's primary title replaces them entirely: their vassals swear to the new ruler, who keeps the old liege. Targeting a lesser title only hands over that title and the land beneath it. The new ruler is grateful to you, and your faith gains fervor.
 
+[h2]Religious Revolt (new faction)[/h2]
+Vassals can now rise against a liege of the wrong faith. You can start a [b]Religious Revolt[/b] against your liege when:
+[list]
+[*]Your liege follows another religion, a heretical rite, or a rite of your religion that is not in communion with yours (the same rules as Holy Deposition).
+[*]At least half of the counties in your liege's realm follow your faith.
+[/list]
+Nobles of the revolt's faith are far more likely to join, and zealous nobles more so; cynics stay away. If the faith falls below half the realm before the war starts, the revolt dissolves.
+
+When the revolt is strong enough it sends a demand:
+[list]
+[*][b]Accepted[/b]: the liege steps down and the faction leader takes all of their titles and vassals.
+[*][b]Refused[/b]: war. If the revolt wins, the liege is deposed and replaced by the attacker of the revolt's faith with the [b]highest war contribution[/b]. The faction leader's contribution counts 25% more.
+[/list]
+The new ruler keeps the old liege (if any), gains prestige and piety, and the deposed ruler keeps a claim. Losing works like any failed faction war.
+
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_compat.png[/img]
 
 [list]
