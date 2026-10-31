@@ -1,0 +1,79 @@
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/banner.jpg[/img]
+
+[i]Your sword has no land, but your faith has a mandate. March on the thrones of unbelievers, heretics and schismatics, cast down their rulers, and choose who rules in their place.[/i]
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_overview.png[/img]
+
+[b]Holy Deposition[/b] is a new holy war casus belli for [b]landless adventurers[/b]. You do not conquer the realm for yourself. You topple its ruler and install someone loyal to your faith: a cleric of your church, a nobleman, a knight from your camp, or one of your own blood. You stay an adventurer and keep the road open for the next crusade.
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_features.png[/img]
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/box_rulers.png[/img]
+
+[list]
+[*]A new [b]Holy Deposition[/b] casus belli usable against a county, duchy, kingdom or empire.
+[*]A full [b]holy war[/b]: fellow believers of the target can rally to its defence.
+[*]A [b]victory event[/b] that lets you decide who rules the conquered realm.
+[*]Works for any faith with a holy war tenet, not only Christians.
+[/list]
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/icon_war.png[/img] [b]Holy War Defenders[/b]: Rulers of the target's faith may join the defence. The target's own vassals answer the call too, if their personality drives them to it. A [i]zealous[/i] vassal will march, a [i]cynical[/i] or [i]craven[/i] one will stay home.
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/icon_clergy.png[/img] [b]Install the Clergy[/b]: Hand the realm to a devoted cleric of your faith and rite, ruling under an ecclesiastical government. Only available to Christian rites with a bishop hierarchy.
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/icon_temporal.png[/img] [b]Install a Temporal Lord[/b]: Raise a lay ruler of your faith. Choose a [b]random noble[/b], or reward a [b]knight or follower from your camp[/b].
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/icon_dynasty.png[/img] [b]Install Your Kin[/b]: Place a [b]member of your dynasty[/b] on the throne and plant your house in conquered land.
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_who.png[/img]
+
+[list]
+[*]You must be a [b]landless adventurer[/b] (requires [i]Roads to Power[/i]).
+[*]Your rite must have a [b]holy war tenet[/b] such as Armed Pilgrimages, Struggle and Submission, Unrelenting Faith, Warmonger, Pursuit of Power, Sacred Destruction, Miles Christi or Fedayeen.
+[/list]
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_targets.png[/img]
+
+[list]
+[*]Rulers who are not Christian.
+[*]Christian rulers of a [b]heretical rite[/b].
+[*]Christian rulers of a rite [b]not in communion[/b] with yours (astray or worse).
+[*]Titles whose capital county is not Christian.
+[/list]
+
+[table]
+[tr][th]Target[/th][th]Piety Cost[/th][th]Piety on Victory[/th][/tr]
+[tr][td]County[/td][td]100[/td][td]+50[/td][/tr]
+[tr][td]Duchy[/td][td]200[/td][td]+100[/td][/tr]
+[tr][td]Kingdom[/td][td]350[/td][td]+200[/td][/tr]
+[tr][td]Empire[/td][td]500[/td][td]+400[/td][/tr]
+[/table]
+[i]Costs are before the usual piety cost modifiers.[/i]
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_victory.png[/img]
+
+When the war is won, the event [b]The Spoils of Faith[/b] opens:
+[list]
+[*][b]Install a member of the clergy[/b]: a devoted cleric takes the title at once.
+[*][b]Install a temporal ruler[/b]: opens [b]A Temporal Lord[/b], with three choices:
+[list]
+[*]A random noble.
+[*]A knight or follower from your camp.
+[*]A member of your dynasty.
+[/list]
+[/list]
+If nobody in your camp or dynasty can take the title, that choice is greyed out and explains why.
+
+Deposing a ruler's primary title replaces them entirely: their vassals swear to the new ruler, who keeps the old liege. Targeting a lesser title only hands over that title and the land beneath it. The new ruler is grateful to you, and your faith gains fervor.
+
+[img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_compat.png[/img]
+
+[list]
+[*]Supported version: [b]1.20.*[/b]
+[*]Adds new files only. Overwrites no vanilla files.
+[*]Should be compatible with most mods, including total religion and culture overhauls.
+[*]Safe to add to an existing save.
+[/list]
+
+[hr][/hr]
+[i]If you enjoy the mod, a rating or favorite helps others find it. Report bugs in the comments.[/i]
