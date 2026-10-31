@@ -6,7 +6,7 @@
 
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_overview.png[/img]
 
-[b]Holy Deposition[/b] is a new holy war casus belli for [b]landless adventurers[/b]. You do not conquer the realm for yourself. You topple its ruler and install someone loyal to your faith: a cleric of your church, a nobleman, a knight from your camp, or one of your own blood. You stay an adventurer and keep the road open for the next crusade.
+[b]Holy Deposition[/b] is a new holy war casus belli for [b]landless adventurers[/b] and [b]devout rulers[/b]. You do not conquer the realm for yourself. You topple its ruler and install someone loyal to your faith: a cleric of your church, a nobleman, a knight from your camp or court, or one of your own blood. Adventurers stay on the road for the next crusade.
 
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_features.png[/img]
 
@@ -16,7 +16,7 @@
 [*]A new [b]Holy Deposition[/b] casus belli usable against a county, duchy, kingdom or empire.
 [*]A full [b]holy war[/b]: fellow believers of the target can rally to its defence.
 [*]A [b]victory event[/b] that lets you decide who rules the conquered realm.
-[*]Works for any faith with a holy war tenet, not only Christians.
+[*]Works for any faith that permits holy wars, not only Christians.
 [/list]
 
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/icon_war.png[/img] [b]Holy War Defenders[/b]: Rulers of the target's faith may join the defence. The target's own vassals answer the call too, if their personality drives them to it. A [i]zealous[/i] vassal will march, a [i]cynical[/i] or [i]craven[/i] one will stay home.
@@ -30,8 +30,15 @@
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_who.png[/img]
 
 [list]
-[*]You must be a [b]landless adventurer[/b] (requires [i]Roads to Power[/i]).
-[*]Your rite must have a [b]holy war tenet[/b] such as Armed Pilgrimages, Struggle and Submission, Unrelenting Faith, Warmonger, Pursuit of Power, Sacred Destruction, Miles Christi or Fedayeen.
+[*]Any [b]landless adventurer[/b] (requires [i]Roads to Power[/i]).
+[*]A [b]landed ruler[/b] only if they are:
+[list]
+[*]a [b]theocracy[/b] or [b]holy order[/b],
+[*][b]Zealous[/b],
+[*]or devout by personality (zeal of 50 or more, such as a saint or a celibate theologian).
+[/list]
+[*]Your faith must permit holy wars. Pacifist and unreformed faiths cannot use it.
+[*]You cannot target your own liege or anyone in your own realm.
 [/list]
 
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_targets.png[/img]
@@ -64,7 +71,7 @@ When the war is won, the event [b]The Spoils of Faith[/b] opens:
 [*][b]Install a temporal ruler[/b]: opens [b]A Temporal Lord[/b], with three choices:
 [list]
 [*]A random noble.
-[*]A knight or follower from your camp.
+[*]A knight or follower from your camp or court.
 [*]A member of your dynasty.
 [/list]
 [/list]
