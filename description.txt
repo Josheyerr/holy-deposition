@@ -35,10 +35,14 @@
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_targets.png[/img]
 
 [list]
-[*]Rulers who are not Christian.
-[*]Christian rulers of a [b]heretical rite[/b].
-[*]Christian rulers of a rite [b]not in communion[/b] with yours (astray or worse).
-[*]Titles whose capital county is not Christian.
+[*]Rulers of [b]another religion[/b].
+[*]Rulers of your religion who follow a [b]heretical rite[/b].
+[*]Rulers of your religion whose rite is [b]not in communion[/b] with yours (astray or worse).
+[*]Titles whose capital county follows another religion.
+[/list]
+A ruler of your own rite is never a valid target, unless the land itself has fallen to another religion.
+[list]
+[*]Example: a Catholic crusader can depose a Sunni emir or an Orthodox duke, while a Sunni ghazi can depose a Catholic count or a heretical Muslim ruler, but never a fellow Sunni.
 [/list]
 
 [table]

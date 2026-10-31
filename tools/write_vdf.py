@@ -5,6 +5,11 @@ UPLOAD_DIR = Path(r"C:\ck3_workshop_upload")
 CONTENT = Path(
     r"C:\Users\kmkjk\OneDrive\Documents\Paradox Interactive\Crusader Kings III\mod\holy_deposition"
 )
+CHANGENOTE = (
+    "Targets are now judged against the attacker's own religion. Non-Christian adventurers "
+    "can no longer declare a Holy Deposition on rulers of their own faith; they can target "
+    "other religions, heretical rites and rites not in communion with theirs."
+)
 
 
 def esc(value: str) -> str:
@@ -23,7 +28,7 @@ def main() -> None:
         "visibility": "0",
         "title": "Holy Deposition",
         "description": description,
-        "changenote": "Initial release: Holy Deposition casus belli with clergy and temporal ruler choices.",
+        "changenote": CHANGENOTE,
     }
     body = "\n".join(f'\t"{k}"\t\t"{esc(v)}"' for k, v in fields.items())
     UPLOAD_DIR.mkdir(exist_ok=True)
