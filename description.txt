@@ -55,13 +55,13 @@ A ruler of your own rite is never a valid target, unless the land itself has fal
 [/list]
 
 [table]
-[tr][th]Target[/th][th]Piety Cost[/th][th]Piety on Victory[/th][/tr]
-[tr][td]County[/td][td]100[/td][td]+50[/td][/tr]
-[tr][td]Duchy[/td][td]200[/td][td]+100[/td][/tr]
-[tr][td]Kingdom[/td][td]350[/td][td]+200[/td][/tr]
-[tr][td]Empire[/td][td]500[/td][td]+400[/td][/tr]
+[tr][th]Target[/th][th]Piety Cost[/th][th]Victory[/th][th]Defeat[/th][/tr]
+[tr][td]County[/td][td]250[/td][td]+300 piety, +250 prestige[/td][td]-150 piety, -150 prestige[/td][/tr]
+[tr][td]Duchy[/td][td]500[/td][td]+600 piety, +500 prestige[/td][td]-300 piety, -300 prestige[/td][/tr]
+[tr][td]Kingdom[/td][td]900[/td][td]+1200 piety, +1000 prestige[/td][td]-600 piety, -500 prestige[/td][/tr]
+[tr][td]Empire[/td][td]1500[/td][td]+2000 piety, +1750 prestige[/td][td]-1000 piety, -800 prestige[/td][/tr]
 [/table]
-[i]Costs are before the usual piety cost modifiers.[/i]
+[i]Costs are before the usual piety cost modifiers. If you lose, the defender gains what you lose.[/i]
 
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_victory.png[/img]
 
