@@ -2,6 +2,8 @@
 
 [i]Your sword has no land, but your faith has a mandate. March on the thrones of unbelievers, heretics and schismatics, cast down their rulers, and choose who rules in their place.[/i]
 
+[url=https://discord.gg/rwdGCanWpA][img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/discord.png[/img][/url]
+
 [img]https://raw.githubusercontent.com/Josheyerr/holy-deposition/main/images/header_overview.png[/img]
 
 [b]Holy Deposition[/b] is a new holy war casus belli for [b]landless adventurers[/b]. You do not conquer the realm for yourself. You topple its ruler and install someone loyal to your faith: a cleric of your church, a nobleman, a knight from your camp, or one of your own blood. You stay an adventurer and keep the road open for the next crusade.
@@ -80,4 +82,4 @@ Deposing a ruler's primary title replaces them entirely: their vassals swear to 
 [/list]
 
 [hr][/hr]
-[i]If you enjoy the mod, a rating or favorite helps others find it. Report bugs in the comments.[/i]
+[i]If you enjoy the mod, a rating or favorite helps others find it. For bug reports, support and my other mods, join the [url=https://discord.gg/rwdGCanWpA]Discord[/url].[/i]
