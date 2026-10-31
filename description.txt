@@ -83,9 +83,9 @@ Deposing a ruler's primary title replaces them entirely: their vassals swear to 
 Vassals can now rise against a liege of the wrong faith. You can start a [b]Religious Revolt[/b] against your liege when:
 [list]
 [*]Your liege follows another religion, a heretical rite, or a rite of your religion that is not in communion with yours (the same rules as Holy Deposition).
-[*]At least half of the counties in your liege's realm follow your faith.
+[*]At least half of the counties in your liege's realm follow your faith, [b]or[/b] more than half of your liege's direct vassals follow your rite.
 [/list]
-AI vassals start Religious Revolts on their own, based on how zealous their personality is: Zealous nobles almost always rise up, devout ones sometimes, and anyone with no zeal (or a Cynic) never starts one. Nobles of the revolt's faith are far more likely to join, and zealous nobles more so; cynics stay away. If the faith falls below half the realm before the war starts, the revolt dissolves.
+AI vassals start Religious Revolts on their own, based on how zealous their personality is: Zealous nobles almost always rise up, devout ones sometimes, and anyone with no zeal (or a Cynic) never starts one. Nobles of the revolt's faith are far more likely to join, and zealous nobles more so; cynics stay away. If neither condition holds anymore before the war starts, the revolt dissolves.
 
 When the revolt is strong enough it sends a demand:
 [list]
