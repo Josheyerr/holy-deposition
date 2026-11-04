@@ -16,6 +16,7 @@
 [*]A new [b]Holy Deposition[/b] casus belli usable against a county, duchy, kingdom or empire.
 [*]A full [b]holy war[/b]: fellow believers of the target can rally to its defence.
 [*]A [b]victory event[/b] that lets you decide who rules the conquered realm.
+[*]Every [b]county your side occupies[/b] is given directly to that new ruler, including land held by a vassal or outside the target title.
 [*]Works for any faith that permits holy wars, not only Christians.
 [/list]
 
